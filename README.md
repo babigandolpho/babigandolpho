@@ -1,4 +1,4 @@
-oas vindas ao meu perfil 💙💙
+Boas vindas ao meu perfil 💙💙
 Meu nome é nome sobrenome
 
 Estou estudando na Alura
