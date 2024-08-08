@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @babigandolpho
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+oas vindas ao meu perfil 💙💙
+Meu nome é nome sobrenome
+
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Você pode entrar em contato comigo 📫
+00001105919298sp@al.educacao.sp.gov.br
+
+
 
 <!---
 babigandolpho/babigandolpho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
